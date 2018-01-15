@@ -1,7 +1,6 @@
 "use strict";
 
 var gulp = require('gulp'),
-    del = require('del'),
     plumber = require('gulp-plumber'),
     rename = require('gulp-rename'),
     zip = require('gulp-zip'),
