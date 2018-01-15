@@ -77,4 +77,8 @@
             );
         }
 
+        public function parse($value) {
+            return $value;
+        }
+
     }
