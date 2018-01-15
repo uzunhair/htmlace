@@ -1,0 +1,23 @@
+{
+  "name": "htmlace",
+  "version": "1.0.0",
+  "description": "Widget for InstantCMS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "widget",
+    "instancms"
+  ],
+  "author": "Atid",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-debug": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-zip": "^4.1.0"
+  }
+}
